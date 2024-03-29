@@ -1,4 +1,4 @@
-# Photo Application
+# JavaFX Photo Application 
 
 ## Overview
 This photo application is a comprehensive solution designed using JavaFX, featuring the MVC (Model-View-Controller) design pattern. It offers a robust platform for users to store, move, log in, search, sign up, copy, and filter photos. With its Singleton design pattern, the application ensures efficient and consistent data storage and retrieval across different user sessions.
